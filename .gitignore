@@ -1,0 +1,9 @@
+﻿node_modules/
+.env
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/sample-cvs/
+*.log
+.DS_Store
+dist/
+.vite/
