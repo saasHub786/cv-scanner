@@ -1,8 +1,10 @@
-﻿node_modules/
+node_modules/
 .env
+.env.local
 backend/uploads/*
 !backend/uploads/.gitkeep
 backend/sample-cvs/
+backend/scripts/*.js
 *.log
 .DS_Store
 dist/
